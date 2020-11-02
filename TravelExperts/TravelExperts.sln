@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelExperts", "TravelExperts.csproj", "{E1D5A6B2-2F51-41BF-B61F-ABA8D4DC24C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_library", "..\Class library\Class_library.csproj", "{E91FD921-ECA1-47B8-ADEE-8EB56D975E56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B6FDBEE-1864-4523-8504-4C3FD6D23ADD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D5A6B2-2F51-41BF-B61F-ABA8D4DC24C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D5A6B2-2F51-41BF-B61F-ABA8D4DC24C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D5A6B2-2F51-41BF-B61F-ABA8D4DC24C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D5A6B2-2F51-41BF-B61F-ABA8D4DC24C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91FD921-ECA1-47B8-ADEE-8EB56D975E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91FD921-ECA1-47B8-ADEE-8EB56D975E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91FD921-ECA1-47B8-ADEE-8EB56D975E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91FD921-ECA1-47B8-ADEE-8EB56D975E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9849DC0-FA8F-4664-8943-BF1C00EB6CF6}
+	EndGlobalSection
+EndGlobal
